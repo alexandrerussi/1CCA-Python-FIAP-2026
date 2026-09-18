@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Alexandre",
+    "email": "a@b.com",
+    "stage": "novo",
+    "created": "2026-09-11"
+  },
+  {
+    "name": "José",
+    "email": "j@b.com",
+    "stage": "novo",
+    "created": "2026-09-11"
+  },
+  {
+    "name": "Maria",
+    "email": "m@b.com",
+    "stage": "novo",
+    "created": "2026-09-18"
+  },
+  {
+    "name": "Maria Clara",
+    "email": "mc@b.com",
+    "stage": "novo",
+    "created": "2026-09-18"
+  }
+]
